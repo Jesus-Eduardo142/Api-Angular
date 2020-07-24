@@ -1,0 +1,6 @@
+com/sky/springtest/controller/service/EmpleadosService.class
+com/sky/springtest/MainAPI.class
+com/sky/springtest/data/model/Empleados.class
+com/sky/springtest/controller/response/DeleteResponse.class
+com/sky/springtest/controller/EmpleadosController.class
+com/sky/springtest/data/repository/EmpleadosRepository.class

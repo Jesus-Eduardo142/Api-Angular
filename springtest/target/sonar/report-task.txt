@@ -1,0 +1,6 @@
+projectKey=com.sky:springtest
+serverUrl=http://localhost:9002
+serverVersion=8.2.0.32929
+dashboardUrl=http://localhost:9002/dashboard?id=com.sky%3Aspringtest
+ceTaskId=AXNss976znKx7SwgEK-Y
+ceTaskUrl=http://localhost:9002/api/ce/task?id=AXNss976znKx7SwgEK-Y
